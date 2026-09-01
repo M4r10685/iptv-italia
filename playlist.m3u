@@ -1,121 +1,106 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/it.xml"
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rai1.png" group-title="Generalisti",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rai1.png" group-title="Generalisti",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rai2.png" group-title="Generalisti",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rai2.png" group-title="Generalisti",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rai3.png" group-title="Generalisti",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rai3.png" group-title="Generalisti",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/canale5.png" group-title="Generalisti",Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/canale5.png" group-title="Generalisti",Canale 5
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/italia1.png" group-title="Generalisti",Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/italia1.png" group-title="Generalisti",Italia 1
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rete4.png" group-title="Generalisti",Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rete4.png" group-title="Generalisti",Rete 4
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
-#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/la7.png" group-title="Generalisti",La7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/la7.png" group-title="Generalisti",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/tv8.png" group-title="Generalisti",TV8
-https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/tv8.png" group-title="Generalisti",TV8
+https://example.com/tv8.m3u8
 
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/nove.png" group-title="Generalisti",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/nove.png" group-title="Generalisti",Nove
+https://example.com/nove.m3u8
 
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rainews24.png" group-title="News",Rai News 24
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/realtime.png" group-title="Entertainment",Real Time
+https://example.com/realtime.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rainews24.png" group-title="News",Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 
-#EXTINF:-1 tvg-id="TGCOM24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/tgcom24.png" group-title="News",TGCOM24
-https://static3.mediasetplay.mediaset.it/player/index.html?autoplay=true&callSign=KF&appKey=5ad3966b1de1c4000d5cec48&purl=https%3A//www.tgcom24.mediaset.it/video/
+#EXTINF:-1 tvg-id="TGCOM24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/tgcom24.png" group-title="News",TGCOM24
+https://example.com/tgcom24.m3u8
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rai4.png" group-title="Entertainment",Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rai4.png" group-title="Entertainment",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rai5.png" group-title="Entertainment",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/rai5.png" group-title="Entertainment",Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/raipremium.png" group-title="Entertainment",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/raipremium.png" group-title="Entertainment",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/la5.png" group-title="Entertainment",La 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/la5.png" group-title="Entertainment",La 5
+https://example.com/la5.m3u8
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/realtime.png" group-title="Entertainment",Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/raimovie.png" group-title="Film",Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/raimovie.png" group-title="Film",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/iris.png" group-title="Film",Iris
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/iris.png" group-title="Film",Iris
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 
-#EXTINF:-1 tvg-id="Canale20.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/20mediaset.png" group-title="Film",20 Mediaset
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="Canale20.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/20.png" group-title="Film",20 Mediaset
+https://example.com/20mediaset.m3u8
 
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/topcrime.png" group-title="Film",Top Crime
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/topcrime.png" group-title="Film",Top Crime
+https://example.com/topcrime.m3u8
 
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/cine34.png" group-title="Film",Cine34
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ia)/index.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/cine34.png" group-title="Film",Cine34
+https://example.com/cine34.m3u8
 
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/focus.png" group-title="Documentary",Focus
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/focus.png" group-title="Documentary",Focus
+https://example.com/focus.m3u8
 
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/boing.png" group-title="Kids",Boing
-https://live02-seg.msf.cdn.mediaset.net/live/ch-bo/bo-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/boing.png" group-title="Kids",Boing
+https://example.com/boing.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/cartoonito.png" group-title="Kids",Cartoonito
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/cartoonito.png" group-title="Kids",Cartoonito
+https://example.com/cartoonito.m3u8
 
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/k2.png" group-title="Kids",K2
-https://live02-seg.msf.cdn.mediaset.net/live/ch-k2/k2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/k2.png" group-title="Kids",K2
+https://example.com/k2.m3u8
 
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/frisbee.png" group-title="Kids",Frisbee
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fr/fr-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/frisbee.png" group-title="Kids",Frisbee
+https://example.com/frisbee.m3u8
 
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/super.png" group-title="Kids",Super!
-https://live02-seg.msf.cdn.mediaset.net/live/ch-su/su-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/super.png" group-title="Kids",Super!
+https://example.com/super.m3u8
 
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/tv2000.png" group-title="Speciale",TV2000
-https://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/tv2000.png" group-title="Speciale",TV2000
+https://example.com/tv2000.m3u8
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/raisport.png" group-title="Sport",Rai Sport
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/sportitalia.png" group-title="Sport",Sportitalia
+https://example.com/sportitalia.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/sportitalia.png" group-title="Sport",Sportitalia
-https://www.sportitalia.com/streaming
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/raisport.png" group-title="Sport",Rai Sport
+https://example.com/raisport.m3u8
 
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/radio105tv.png" group-title="Radio",Radio 105 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/radio105tv.png" group-title="Radio",Radio 105 TV
+https://example.com/radio105tv.m3u8
 
-#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/r101tv.png" group-title="Radio",R101 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/r101tv.png" group-title="Radio",R101 TV
+https://example.com/r101tv.m3u8
 
-#EXTINF:-1 tvg-id="VirginRadio.it" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/virginradio.png" group-title="Radio",Virgin Radio
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(vr)/index.m3u8
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="Virgin Radio TV" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/virginradio.png" group-title="Radio",Virgin Radio TV
+https://example.com/virginradiotv.m3u8
 
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="Radio Italia TV" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/radioitaliatv.png" group-title="Radio",Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="Radio Italia TV" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/radioitalia.png" group-title="Radio",Radio Italia TV
+https://example.com/radioitaliatv.m3u8
 
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/deejaytv.png" group-title="Radio",Deejay TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
-
-#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/rtl-1025.png" group-title="Radio",RTL 102.5
-https://rtl.it/
-
-#EXTINF:-1 tvg-id="RadioCapital.it" tvg-name="Radio Capital" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/radio-capital.png" group-title="Radio",Radio Capital
-https://capital-live.m3u8
-
-#EXTINF:-1 tvg-id="M2O.it" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/m2o.png" group-title="Radio",m2o
-https://m2o-live.m3u8
-
-#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="Radio Freccia" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/radio-freccia.png" group-title="Radio",Radio Freccia
-https://www.radiofreccia.it/
-
-#EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/M4r10685/iptv-italia/main/logos/radio-zeta.png" group-title="Radio",Radio Zeta
-https://play.rtl.it/
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://raw.githubusercontent.com/sfiorini/IPTV-Italy/main/logos/deejay.png" group-title="Radio",Deejay TV
+https://example.com/deejaytv.m3u8
